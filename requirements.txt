@@ -1,0 +1,9 @@
+pillow
+pywin32
+PyQt5
+datetime
+numpy
+opencv-python
+httpx
+aircv
+pywinio
